@@ -7,11 +7,12 @@ $ npm install --save greengeorge/eventgridEndpointValidate
 
 ## Usage
 ```javascript
+const express = require('express');
 const eventgridEndpointValidate = require('eventgridEndpointValidate');
 
-// …
-
-app.post('/', [eventgridEndpointValidate, controller]);
+const app = express();
+app.use(express.json());
+app.use(eventgridEndpointValidate);
 
 // …
 ```
