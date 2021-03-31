@@ -1,6 +1,6 @@
 {
   "name": "@gananda/eventgrid-endpoint-validate-middleware",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Make your life easier when registering webhooks endpoints in Azure Event Grid",
   "main": "index.js",
   "scripts": {
