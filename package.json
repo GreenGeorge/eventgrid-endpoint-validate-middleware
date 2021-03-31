@@ -1,12 +1,21 @@
 {
   "name": "eventgrid-endpoint-validate-middleware",
   "version": "1.0.0",
-  "description": "",
+  "description": "Make your life easier when registering webhooks endpoints in Azure Event Grid",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "George Ananda <georgeananda@icloud.com>",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenGeorge/eventgrid-endpoint-validate-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GreenGeorge/eventgrid-endpoint-validate-middleware/issues"
+  },
+  "homepage": "https://github.com/GreenGeorge/eventgrid-endpoint-validate-middleware#readme"
 }
