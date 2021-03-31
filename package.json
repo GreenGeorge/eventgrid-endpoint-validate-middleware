@@ -9,7 +9,6 @@
   "keywords": [],
   "author": "George Ananda <georgeananda@icloud.com>",
   "license": "ISC",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GreenGeorge/eventgrid-endpoint-validate-middleware.git"
