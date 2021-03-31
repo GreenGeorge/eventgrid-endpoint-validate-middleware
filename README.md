@@ -2,7 +2,7 @@ Make your life easier when registering webhooks endpoints in Azure Event Grid
 
 ## Installation
 ```bash
-$ npm install --save greengeorge/eventgridEndpointValidate
+$ npm install --save @gananda/eventgrid-endpoint-validate-middleware
 ```
 
 ## Usage
